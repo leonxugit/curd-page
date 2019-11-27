@@ -6,4 +6,4 @@ Vue动态生成查插删改页组件 可以根据数据配置自动生成表单�
 有问题或BUG欢迎提[issues](https://github.com/leonxugit/curd-page/issues)
 
 
-## [文档](https://github.com/leonxugit/curd-page/blob/doc.md)
+## [文档](https://github.com/leonxugit/curd-page/blob/master/blob/doc.md)
